@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Talk YourSelf</string>
+    <string name="mental_health_blog">Mental Health Blog</string>
+    <string name="medicine_locator">Medicine Locator</string>
+    <string name="medical_record">Medical Record</string>
+    <string name="appointment">Doctor Appointment</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="username">Email</string>
+    <string name="password">password</string>
+    <string name="signin">Sign In</string>
+    <string name="cancel">Cancel</string>
+    <string name="minimum_password">Password Must be More than 6</string>
+    <string name="auth_failed">Login Failed</string>
+    <string name="prescription">Prescription</string>
+    <string name="live_with_doctor">Live Chat with Doctor</string>
+    <string name="list_of_doctor">List Of Doctor</string>
+</resources>

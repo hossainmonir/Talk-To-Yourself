@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "112923119132",
+    "project_id": "talk-yourself",
+    "storage_bucket": "talk-yourself.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112923119132:android:9ffe0171d86dff707319d9",
+        "android_client_info": {
+          "package_name": "com.example.talkyourself"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112923119132-ntq8lpb951269jl3qoju8imc731dn1fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talkyourself",
+            "certificate_hash": "7969612b5ff05d6d51d1be4d140861d975167e14"
+          }
+        },
+        {
+          "client_id": "112923119132-amge7p9bgnos1kv7i9mq681c4rgbff01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWQHdX5KKtpWqxK9tAL4sZ6rpuXZF37p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112923119132-amge7p9bgnos1kv7i9mq681c4rgbff01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
